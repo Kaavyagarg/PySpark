@@ -1,7 +1,7 @@
 # PySpark
 Business requirements
 > Clients have data available in csv format and it's not proper.
-> Client wants to grow the business and for that data cleaning is needed.
+> Client wants to grow the business and for that some evaluation needs to be performed on previous year's data.
 
 KPI
 > Total Amount spent by each customer
