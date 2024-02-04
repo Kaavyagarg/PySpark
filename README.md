@@ -1,4 +1,4 @@
-# Sales_Menu_KPI_PySpark
+# PySpark_project_Sales_Analysis
 Business requirements
 > Clients have data available in csv format and it's not proper.
 > Client wants to grow the business and for that some evaluation needs to be performed on previous year's data.
